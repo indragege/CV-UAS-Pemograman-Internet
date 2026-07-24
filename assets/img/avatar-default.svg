@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f766e"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+  <rect width="480" height="480" rx="64" fill="url(#g)"/>
+  <circle cx="240" cy="178" r="82" fill="#e2e8f0"/>
+  <path d="M88 421c18-91 72-137 152-137s134 46 152 137" fill="#e2e8f0"/>
+  <text x="240" y="458" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#fff">CV USER</text>
+</svg>
